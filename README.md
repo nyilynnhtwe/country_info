@@ -1,7 +1,7 @@
 # country_info
 program to find informations about countries.
 
-#Instructions 
+#Instructions <br>
 you must have
  - Python in your os.
  - installed Pip.if you don't have, here(https://phoenixnap.com/kb/install-pip-windows)
