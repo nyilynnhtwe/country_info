@@ -5,6 +5,7 @@ bol=True
 while bol:
  co=input("Enter your country name(if u want to exit type 'exit'):")
  if co=="exit":
+     print('Thank you for using my program!')
      bol=False
  else:
     li=pycountry.countries.search_fuzzy(co)
