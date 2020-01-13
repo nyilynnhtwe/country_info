@@ -11,7 +11,7 @@ Instructions
 Run
  -python country_ifo.py
 
-<code align="center">
+<p align="center">
  There are 249 countries in the world<br>
  Enter your country name(if u want to exit type 'exit'):Myanmar<br>
  Name:Myanmar<br>
@@ -24,5 +24,5 @@ Run
  Laos and Thailand to its east and southeast, and the Andaman Sea and the Bay of Bengal<br>
  to its south and southwest.<br>
  You can inform details herehttps://en.wikipedia.org/wiki/Myanmar
-</code>
+</p>
 
