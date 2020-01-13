@@ -11,7 +11,7 @@ you must have
 Run
  -python country_ifo.py
 
-<p align="center">
+<p>
  There are 249 countries in the world<br>
  Enter your country name(if u want to exit type 'exit'):Myanmar<br>
  Name:Myanmar<br>
